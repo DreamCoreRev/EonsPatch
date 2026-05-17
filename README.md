@@ -26,6 +26,7 @@ This repository provides all MPQ patch files for the **EonsPatch** project, incl
 | patch-H.MPQ | [Download](https://github.com/DreamCoreRev/EonsPatch/releases/tag/patch-H.MPQ) |
 | patch-S.MPQ | [Download](https://github.com/DreamCoreRev/EonsPatch/releases/tag/patch-S.MPQ) |
 | patch-W.MPQ | [Download](https://github.com/DreamCoreRev/EonsPatch/releases/tag/patch-W.MPQ) |
+| patch-Y.MPQ | [Download](https://github.com/DreamCoreRev/EonsPatch/releases/tag/patch-Y.MPQ) |
 | patch-Z.MPQ | [Download](https://github.com/DreamCoreRev/EonsPatch/releases/tag/patch-Z.MPQ) |
 
 ---
