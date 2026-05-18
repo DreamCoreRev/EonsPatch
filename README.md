@@ -44,6 +44,7 @@ This repository provides all MPQ patch files for the **EonsPatch** project, incl
 | patch-frFR-A.MPQ | [Download](https://github.com/DreamCoreRev/EonsPatch/releases/tag/patch-frFR-A.MPQ) |
 | patch-frFR-B.MPQ | [Download](https://github.com/DreamCoreRev/EonsPatch/releases/tag/patch-frFR-B.MPQ) |
 | patch-frFR-P.MPQ | [Download](https://github.com/DreamCoreRev/EonsPatch/releases/tag/patch-frFR-P.MPQ) |
+| patch-frFR-U.MPQ | [Download](https://github.com/DreamCoreRev/EonsPatch/releases/tag/patch-frFR-U.MPQ) |
 | patch-frFR-X.MPQ | [Download](https://github.com/DreamCoreRev/EonsPatch/releases/tag/patch-frFR-X.MPQ) |
 | patch-frFR-Z.MPQ | [Download](https://github.com/DreamCoreRev/EonsPatch/releases/tag/patch-frFR-Z.MPQ) |
 
